@@ -1,0 +1,15 @@
+# Windows, IDE & Personal preferences
+desktop.ini
+folder.ico
+.keep/
+
+# (p)npm
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+
+# This project specific files & directories
+public/
+build/
+.env*
+site/_themes/hyde/css/styles.min.css
